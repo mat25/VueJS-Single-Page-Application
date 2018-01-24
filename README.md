@@ -4,13 +4,28 @@
 
 ## Build Setup
 
-``` bash
+
+
 # install dependencies
-npm install
+Run `npm install`
 
 # serve
-npm run dev
+Run `npm run dev`
 
 # build
-npm run build
+Run `npm run build`
+
+
+
+### Enjoy!
+
+
+
+the app is for demonstration purposes only
+
+
+For information and support
+
+matteosalvatiproietti@gmail.com
+
 
